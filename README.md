@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aguinaldomavenda0](https://github.com/aguinaldomavenda0)
 
-- 🏊‍♂️ my resume you can find it here [mavendeveloper](http://mavendeveloper.my-style.in/index.html)
+- 🏊‍♂️ my resume you can find it here [mavendeveloper](http://aguinaldomavenda.ango.ao/index.html)
 
 - 💬 Ask me about **PHP, React, Expo, TensorFlow**
 
@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aguinaldo-mavenda-60530500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aguinaldo-mavenda-60530500" height="30" width="40" /></a>
-<a href="https://fb.com/mav3nda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mav3nda" height="30" width="40" /></a>
-<a href="https://instagram.com/mav3nda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mav3nda" height="30" width="40" /></a>
+<a href="https://fb.com/aguinaldomavenda0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mav3nda" height="30" width="40" /></a>
+<a href="https://instagram.com/aguinaldomavenda0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mav3nda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
